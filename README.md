@@ -18,7 +18,7 @@ I've spent most of my time as a developer with the following stacks:
 In general terms, I have 3 years of experience with the Python ecosystem and 1 with the TypeScript one.
 
 <h3>MY FRIEND</h3>
-has a message for you...
+has a message for you....
 
 <br>
 <br>
