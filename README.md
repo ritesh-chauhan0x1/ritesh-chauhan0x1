@@ -11,9 +11,23 @@ I'm a versatile developer, with experience in building web platforms.<br>I like 
 I've experience working in a private company and as a freelancer.
 
 I've spent most of my time as a developer with the following stacks:
-- <img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Django -- Celery -- Heroku-grey" alt="Django, Celery and Heroku">
-- <img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Frappe -- MariaDB -- Docker-grey" alt="Frappe, MariaDB and Docker">
-- <img src="https://img.shields.io/badge/T ypeScript   |  S C  S S-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-Next.js (React) -- Tailwind CSS-grey" alt="Next.js (React) and Tailwind CSS">
+## 💻 Tech Stack  
+
+- <img src="https://img.shields.io/badge/MEAN--Stack-MongoDB | Express | Angular | Node.js-white?labelColor=black" alt="MEAN Stack"> 
+  <img src="https://img.shields.io/badge/-REST API -- Integration -- Postman-grey" alt="REST API Integration">
+
+- <img src="https://img.shields.io/badge/Kotlin | Java-Mobile--Dev-white?labelColor=black" alt="Kotlin Mobile Development"> 
+  <img src="https://img.shields.io/badge/-Android Studio -- Jetpack Compose -- Firebase-grey" alt="Android development tools">
+
+- <img src="https://img.shields.io/badge/HTML | CSS | JavaScript-Frontend-white?labelColor=black" alt="Frontend stack"> 
+  <img src="https://img.shields.io/badge/-React -- Tailwind CSS -- Bootstrap-grey" alt="Frontend frameworks">
+
+- <img src="https://img.shields.io/badge/Python | MySQL-Backend-white?labelColor=black" alt="Backend stack"> 
+  <img src="https://img.shields.io/badge/-Django -- Flask -- API-grey" alt="Python backend frameworks">
+
+- <img src="https://img.shields.io/badge/Tools-Git | GitHub | VS Code-white?labelColor=black" alt="Developer tools"> 
+  <img src="https://img.shields.io/badge/-Docker -- Postman -- Firebase-grey" alt="Tools and services">
+
 
 In general terms, I have 3 years of experience with the Python ecosystem and 1 with the TypeScript one.
 
