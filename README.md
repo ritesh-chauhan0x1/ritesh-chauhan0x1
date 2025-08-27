@@ -8,7 +8,7 @@ I'm a versatile developer, with experience in building web platforms.<br>I like 
 
 <h3>EXPERIENCE</h3>
 
-I've experience working in a private company and as a freelancer.
+I've experience working in a Many Porject .
 
 I've spent most of my time as a developer with the following stacks:
 ## 💻 Tech Stack  
@@ -29,7 +29,7 @@ I've spent most of my time as a developer with the following stacks:
   <img src="https://img.shields.io/badge/-Docker -- Postman -- Firebase-grey" alt="Tools and services">
 
 
-In general terms, I have 3 years of experience with the Python ecosystem and 1 with the TypeScript one.
+In general terms, I have 3 years of experience with the Python ecosystem , git&github code and worked in many Projects
 
 ---
 
