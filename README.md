@@ -8,7 +8,7 @@ I'm a versatile developer, with experience in building web platforms.<br>I like 
 
 <h3>EXPERIENCE</h3>
 
-I've experience working in a Many Porject .
+I've experience working in a Many Porjects .
 
 I've spent most of my time as a developer with the following stacks:
 ## 💻 Tech Stack  
