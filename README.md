@@ -1,3 +1,3 @@
-"Why would I want to have a 3 some, if I wanted to disappoint two people at once I'd have dinner with my parents"<br>
+"Life is short. Smile while you still have teeth."<br>
 
 <p align="right"><b>- Someone on the reddit</b></p>
